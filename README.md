@@ -19,9 +19,15 @@ It helps users track their income and expenses with real-time balance updates.
 
 ## 🖥️ Preview
 
+### Income
+
 <img width="1894" height="907" alt="image" src="https://github.com/user-attachments/assets/c91ab934-95ae-4210-b21e-cb450fbee645" />
 
+### Expense
+
 <img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/11b36674-7add-4c2e-870a-31da7c5f234f" />
+
+### Your Balance
 
 <img width="1895" height="921" alt="image" src="https://github.com/user-attachments/assets/14449567-9934-4ff8-86e9-8c5803932445" />
 
@@ -32,8 +38,6 @@ It helps users track their income and expenses with real-time balance updates.
 * CSS
 * JavaScript (Vanilla JS)
 * LocalStorage
-
----
 
 ## ⚙️ How It Works
 
@@ -48,8 +52,6 @@ It helps users track their income and expenses with real-time balance updates.
 
 4. Data is stored in browser (no backend required)
 
----
-
 ## 📂 Project Structure
 
 ```
@@ -59,8 +61,6 @@ expense-tracker/
 │── script.js
 │── README.md
 ```
-
----
 
 ## ▶️ Run Locally
 
@@ -72,16 +72,12 @@ git clone https://github.com/Archana123-prog/Expense-Tracker.git
 
 2. Open `index.html` in your browser
 
----
-
 ## 🧠 Key Concepts Used
 
 * DOM Manipulation
 * Event Handling
 * Array Methods (`map`, `filter`, `reduce`)
 * LocalStorage for persistence
-
----
 
 ## 🔥 Future Improvements
 
@@ -90,14 +86,10 @@ git clone https://github.com/Archana123-prog/Expense-Tracker.git
 * 🔐 User authentication
 * 🌐 Backend integration
 
----
-
 ## 🙌 Author
 
 **Archana Kumari**
 GitHub: https://github.com/Archana123-prog
-
----
 
 ## ⭐ Show Your Support
 
