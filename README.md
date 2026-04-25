@@ -23,7 +23,7 @@ It helps users track their income and expenses with real-time balance updates.
 
 <img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/11b36674-7add-4c2e-870a-31da7c5f234f" />
 
-<img width="442" height="922" alt="image" src="https://github.com/user-attachments/assets/b39e9179-7906-460a-9dc7-534b3f04c36e" />
+<img width="1895" height="921" alt="image" src="https://github.com/user-attachments/assets/14449567-9934-4ff8-86e9-8c5803932445" />
 
 
 ## 🛠️ Tech Stack
