@@ -3,13 +3,9 @@
 A simple and responsive **Expense Tracker Web App** built using **HTML, CSS, and JavaScript**.
 It helps users track their income and expenses with real-time balance updates.
 
----
-
 ## 🌐 Live Demo
 
 👉 https://archana123-prog.github.io/Expense-Tracker/
-
----
 
 ## 🚀 Features
 
